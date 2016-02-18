@@ -31,8 +31,6 @@ public class Main
         System.out.println("Yıl 2010 mu? " + dogruMu );
         
         
-        
-        
     }
     
 }
