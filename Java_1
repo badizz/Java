@@ -1,8 +1,6 @@
 package pkg1_hello_java;
 
-/**
- * @author badizz
- */
+
 public class Main 
 {
     public static void main(String[] args) 
