@@ -1,0 +1,1 @@
+JavaApplication!3  --> Use of Scanner Class
