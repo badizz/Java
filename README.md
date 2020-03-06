@@ -1,3 +1,3 @@
 # MyCode
 
-Java Projects
+Java Projects for our lesson.
